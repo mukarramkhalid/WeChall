@@ -1,4 +1,4 @@
-# [Wechall.net] Solutions of different challenges.
+# [Wechall.net] Solutions
 
 **Challenge - 1**  
     - Blinded by the Light.  
