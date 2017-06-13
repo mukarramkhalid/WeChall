@@ -9,8 +9,8 @@
 **Tested on**  
     - Windows 10 / Ubuntu 14.04  
 **Blog Post**  
-    - http://mukarramkhalid.com/solution-blinded-by-the-light/    
+    - https://mukarramkhalid.com/solution-blinded-by-the-light/    
 
   
-![Preview]
-(http://mukarramkhalid.com/wp-content/uploads/2016/02/blinded_featured.png)
+![Preview](https://mukarramkhalid.com/wp-content/uploads/2016/02/blinded_featured.png)
+
