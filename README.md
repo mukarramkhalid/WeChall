@@ -12,5 +12,5 @@
     - https://mukarramkhalid.com/solution-blinded-by-the-light/    
 
   
-![Preview](https://mukarramkhalid.com/wp-content/uploads/2016/02/blinded_featured.png)
+![Preview](https://mukarramkhalid.com/assets/images/blog/posts/solution-blinded-by-the-light/blinded7.png)
 
